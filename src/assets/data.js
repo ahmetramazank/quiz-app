@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "İnternet bağlantısı için hangi cihaz kullanılır?",
+      option1: "Modem",
+      option2: "Router",
+      option3: "LAN Kablosu",
+      option4: "Flash Disk",
+      ans: 1,
+    },
+    {
+      question: "Hangi kıtada daha fazla ülke var?",
+      option1: "Asya",
+      option2: "Avrupa",
+      option3: "Kuzey Amerika",
+      option4: "Afrika",
+      ans: 4,
+    },
+    {
+      question: "Hangisi bir yazılım dili değildir?",
+      option1: "HTML",
+      option2: "Javascript",
+      option3: "Pyhton",
+      option4: "R",
+      ans: 1,
+    },
+    {
+      question: "Atatürk kaç yılında Sivas Kongresi'ni gerçekleştirmiştir?",
+      option1: "1917",
+      option2: "1918",
+      option3: "1919",
+      option4: "1920",
+      ans: 3,
+    },
+    {
+      question: "Galatasaray kaç yılında UEFA Kupası'nı almıştır?",
+      option1: "1999",
+      option2: "2000",
+      option3: "2005",
+      option4: "2006",
+      ans: 2,
+    },
+  ];
